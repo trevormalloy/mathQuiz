@@ -1,0 +1,17 @@
+.container {
+  margin-top: 05%;
+  margin-bottom: 30px;
+}
+
+.btn {
+  margin: 5px;
+  width: 10em;
+}
+
+a {
+  color: white;
+}
+a:hover {
+  color: white;
+  text-decoration: none;
+}
